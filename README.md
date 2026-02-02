@@ -54,7 +54,7 @@
    👉 https://www.tampermonkey.net/
 
 2. Установите userscript  
-   👉 **[Установить скрипт](chrome-extension://dhdgffkkebhmkfjojejmpbldmpobfkfo/ask.html?aid=7c1b974f-a69d-47ef-a5b2-2b5aeeeaa429)**
+   👉 **[Установить скрипт](https://github.com/Gonkat/ITD-Gonkat-Canvas-Auto-Drawer/raw/refs/heads/main/Gonkat%20Canvas%20Auto%20Drawer-1.2.user.js)**
 
 3. Перейдите на сайт ИТД и обновите страницу
 
